@@ -2,5 +2,9 @@ Rencana Kedepannya
 - Belajar Bahasa Inggris
  * Dasar Kosa Kata Bahasa Inggris
  * Belajar Menyambungkan Kalimat
+   > Vue
+   > React
 - Stuktur Data Dasar
+- Php Frameworks
+  > Laravel
 - Belajar Belajar Memahami Matematika
