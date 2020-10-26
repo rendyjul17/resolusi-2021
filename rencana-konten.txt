@@ -4,6 +4,7 @@ Rencana Kedepannya
  * Belajar Menyambungkan Kalimat
    > Vue
    > React
+   > Angular
 - Stuktur Data Dasar
 - Php Frameworks
   > Laravel
