@@ -2,4 +2,5 @@ Rencana Kedepannya
 - Belajar Bahasa Inggris
  * Dasar Kosa Kata Bahasa Inggris
  * Belajar Menyambungkan Kalimat
+- Stuktur Data Dasar
 - Belajar Belajar Memahami Matematika
